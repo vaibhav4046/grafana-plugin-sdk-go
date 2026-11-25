@@ -14,7 +14,7 @@ require (
 	github.com/go-openapi/strfmt v0.27.4
 	github.com/go-openapi/swag/loading v0.29.2
 	github.com/go-openapi/validate v1.0.3
-	github.com/gobwas/glob v0.2.3
+	github.com/gobwas/glob v1.1.0
 	github.com/google/go-cmp v0.7.0
 	github.com/google/uuid v1.6.0
 	github.com/grafana/otel-profiling-go v0.7.0
